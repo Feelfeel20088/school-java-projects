@@ -1,2 +1,2 @@
 # school-java-projects
-some projects i did while i was in highschool.
+some colage level projects i did in highschool.
